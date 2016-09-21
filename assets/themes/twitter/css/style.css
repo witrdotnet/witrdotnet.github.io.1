@@ -73,3 +73,12 @@
 
 .post_title {
   margin-bottom: 0; }
+
+.gravatar_img {
+  float: left;
+  margin: 0px 10px; }
+
+.gravatar_text {
+  float: left;
+  font-size: 14px;
+  font-family: inherit; }
