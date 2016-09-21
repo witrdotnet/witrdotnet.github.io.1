@@ -1,0 +1,20 @@
+---
+author: admin
+comments: false
+date: 2013-07-12 09:26:00+00:00
+layout: post
+link: https://witr.net/quotation/?p=40
+slug: jsfiddle
+title: JSFIDDLE
+wordpress_id: 40
+categories:
+- javascript
+---
+
+Utile pour les développeurs javascript. [http://jsfiddle.net/](http://jsfiddle.net/) est une application Saas permettant :- d'éditer une application javascript et voir le résultat instantanément  
+- de choisir son framework js : Prototype, mootools, jquery ... etc  
+- de lier des scripts externes  
+et plus d'autres fonctionnalités à découvrir  
+  
+
+

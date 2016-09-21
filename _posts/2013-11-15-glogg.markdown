@@ -1,0 +1,23 @@
+---
+author: admin
+comments: false
+date: 2013-11-15 13:55:00+00:00
+layout: post
+link: https://witr.net/quotation/?p=688
+slug: glogg
+title: glogg
+wordpress_id: 688
+categories:
+- linux
+- tricks
+---
+
+simple way to navigate in your big log files  
+to install type : apt-get install glogg  
+
+
+  
+
+
+
+

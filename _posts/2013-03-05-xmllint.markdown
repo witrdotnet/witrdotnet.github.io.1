@@ -1,0 +1,17 @@
+---
+author: admin
+comments: false
+date: 2013-03-05 09:34:00+00:00
+layout: post
+link: https://witr.net/quotation/?p=85
+slug: xmllint
+title: xmllint
+wordpress_id: 85
+categories:
+- linux
+- xml
+---
+
+March 5, 2013  
+  
+line command ubuntu to beautify xml file

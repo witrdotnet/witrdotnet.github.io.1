@@ -1,0 +1,28 @@
+---
+author: admin
+comments: false
+date: 2013-04-12 07:22:00+00:00
+layout: post
+link: https://witr.net/quotation/?p=71
+slug: apache2php
+title: apache2+php
+wordpress_id: 71
+categories:
+- apache
+- php
+---
+
+
+  
+April 12, 2013  
+  
+apache2+php  
+> sudo apt-get install apache2  
+> sudo apt-get install php5  
+> sudo apt-get install libapache2-mod-php5  
+> sudo /etc/init.d/apache2 restart  
+> vi /etc/apache2/sites-available/default : modifier /var/www by your prefered folder  
+  
+  
+
+

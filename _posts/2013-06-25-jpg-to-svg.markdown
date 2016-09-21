@@ -1,0 +1,21 @@
+---
+author: admin
+comments: false
+date: 2013-06-25 09:12:00+00:00
+layout: post
+link: https://witr.net/quotation/?p=48
+slug: jpg-to-svg
+title: jpg to svg
+wordpress_id: 48
+categories:
+- svg
+---
+
+to convert jpg to svg we can use autotrace or potrace.  
+  
+autotrace:  
+> sudo apt-get install autotrace  
+use (convert /tmp/mba.jpg to svg):  
+> autotrace /tmp/mba.jpg -input-format jpg -output-format svg -output-file /tmp/mba.svg  
+  
+see delineate gui application which use autotrace or potrace
