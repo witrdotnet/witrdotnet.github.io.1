@@ -7,11 +7,12 @@ tagline: IT blog
 
 <div>
   {% for post in site.posts limit:5 %}
-              <div class="inlinepost">
-                <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-                <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
-                <div>{{ post.content }}</div>
-              </div>
+    <a href="{{ post.url }}"><h3 class="post_title">{{ post.title }}</h3></a>
+    <p class="post_date">{{ post.date | date: "%d %B %Y" }}</p>
+    <div class="post_box">
+      <div>{{ post.content }}</div>
+    </div>
+    <hr/>
   {% endfor %}
 </div>
 
