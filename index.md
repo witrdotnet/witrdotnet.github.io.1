@@ -1,9 +1,19 @@
 ---
 layout: page
-title: Witrdotnet
-tagline: Supporting tagline
+title: witrdotnet
+tagline: IT blog
 ---
 {% include JB/setup %}
+
+<div>
+  {% for post in site.posts limit:5 %}
+              <div class="inlinepost">
+                <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+                <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+                <div>{{ post.content }}</div>
+              </div>
+  {% endfor %}
+</div>
 
 ## Posts
 
